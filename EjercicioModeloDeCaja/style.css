@@ -1,12 +1,35 @@
 body{
-    background-color: khaki;
-}
-#gral{
-background-color:black;
+    background-color: grey;
 }
 .caja{
     border-style:solid;
-    border: 8px;
-    border-color: black;
+    border-width: 1px;
+    border-radius: 2px;
+    border-color: grey;
     background-color: aliceblue;
+    border-top: solid 0px;
+}
+
+.contenido{
+    padding: 10px;
+}
+.header{
+    padding: 10px;
+    border-bottom: solid 1px gray;
+}
+.footer{
+    padding: 10px;
+    border-top: solid 1px gray;
+}
+.aceptar{
+    background-color: cadetblue;
+    color: whitesmoke;
+    border: 0px;
+    padding: 5px;
+}
+.cancelar{
+    background-color: grey;
+    color: whitesmoke;
+    border: 0px;
+    padding: 5px;
 }
