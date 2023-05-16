@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+p{
+    font-family: monospace;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color: cadetblue;
+    text-align: left;
+    text-indent: 20px;
+    line-height: 1.7;
+    word-spacing: 10px;
+}
+a{
+    font-style: oblique;
+    font-size: 30px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-shadow: 2px 2px violet;
+}
