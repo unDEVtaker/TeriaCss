@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+}
+ul {
+    list-style-type: none;
+    background-color: white;
+    border: solid 1px gray;
+    border-radius: 4px;
+    padding-left: 0px;
+}
+li{
+    border-bottom: solid 1px gray;
+    padding: 15px;
+}
+table{
+    font-family: monospace;
+    background-color: whitesmoke;
+    width: 100%;
+    border-collapse: collapse;
+}
+tr:nth-child(even){
+    background-color: gainsboro;
+}
+td{
+    border: 1px solid ;
+}
+table th{
+    background-color: aquamarine;
+    text-align: left;
+    padding: auto;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}

@@ -18,5 +18,17 @@ a{
     text-decoration: underline;
     text-transform: uppercase;
     letter-spacing: 3px;
-    text-shadow: 2px 2px violet;
+    color: blueviolet;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: yellow;
+}
+a:active{
+    color: black;
 }
