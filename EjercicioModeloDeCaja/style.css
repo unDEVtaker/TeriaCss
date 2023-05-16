@@ -1,0 +1,12 @@
+body{
+    background-color: khaki;
+}
+#gral{
+background-color:black;
+}
+.caja{
+    border-style:solid;
+    border: 8px;
+    border-color: black;
+    background-color: aliceblue;
+}
